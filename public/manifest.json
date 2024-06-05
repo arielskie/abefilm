@@ -1,17 +1,17 @@
 {
   "version": "1.0",
   "id": "/",
-  "name": "My Blog",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
-  "start_url": "https://my-blog.blogspot.com/?utm_source=homescreen",
+  "name": "ABEFILM",
+  "short_name": "ABEFILM",
+  "description": "Free Streaming Platform for Movies and Series",
+  "start_url": "https://abefilmstreamtv.blogspot.com",
   "dir": "auto",
   "lang": "en-US",
   "orientation": "any",
   "display": "standalone",
   "prefer_related_applications": false,
-  "background_color": "#fff",
-  "theme_color": "#fff",
+  "background_color": "#000",
+  "theme_color": "#000",
   "icons": [
     {
       "src": "icons/favicon.ico",
